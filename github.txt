@@ -1,0 +1,14 @@
+flag : TamilCTF{i_d0nt_kn0w_4b0u7_g!7_:(}
+actually its splitted 
+
+1.first  part is in .git/logs/refs
+and second ls
+2.cd heads/ of refs
+ls 
+and third in 
+3..git/branches
+makesure that you are collecting all flags
+and 
+4.and someting in index.zip  and the pasword is stored in config file
+5.is floating which is "}"
+

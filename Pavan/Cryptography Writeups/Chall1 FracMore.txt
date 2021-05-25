@@ -1,0 +1,4 @@
+The cipher is Fractionated Morse Cipher
+https://www.dcode.fr/fractionated-morse
+
+After giving the cipher , we get the flag!
